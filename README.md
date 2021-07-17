@@ -1,6 +1,6 @@
-# Task manager API
+# Real-time chat application
 
-This is a real time chat application.
+This is a real-time chat application.
 It is deployed at <https://good-chat-app.herokuapp.com/>
 
 Things learnt while building this application were:
